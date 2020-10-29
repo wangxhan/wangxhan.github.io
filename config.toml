@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https:wangxhan.github.io"
+baseurl = "https://wangxhan.github.io"
 title = "Vex | hugo landing page template"
 theme = "vex-hugo"
 # post excert
