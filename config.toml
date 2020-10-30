@@ -1,7 +1,5 @@
 baseURL = "https://wangxhan.github.io/"
 languageCode = "zh-cn"
 title = "Borsalino & Co."
-theme = "product-catalogue"
-themesDir = "../.."
 [Params]
 description = ""
