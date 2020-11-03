@@ -1,5 +1,3 @@
-baseURL = "https://wangxhan.github.io/"
-languageCode = "zh-cn"
-title = "Borsalino & Co. 兄弟进出口"
-[Params]
-description = "进口食品酒水折扣销售配送"
+languageCode = "en-us"
+title = "My New Hugo Site"
+baseURL = "http://localhost:1313"
